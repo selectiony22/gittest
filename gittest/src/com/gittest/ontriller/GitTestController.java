@@ -1,4 +1,4 @@
-package gitTestContriller;
+package com.gittest.ontriller;
 
 public class GitTestController {
 	public void test() {
