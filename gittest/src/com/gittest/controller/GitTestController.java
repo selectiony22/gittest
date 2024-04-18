@@ -1,4 +1,4 @@
-package com.gittest.contriller;
+package com.gittest.controller;
 
 public class GitTestController {
 	public void test() {
