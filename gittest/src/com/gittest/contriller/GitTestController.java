@@ -10,6 +10,6 @@ public class GitTestController {
 		}
 		public void test2() {
 		
-			
+			 
 	}
 }
